@@ -28,19 +28,23 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
 <tr>
 <td width="25%" align="center">
 <img src="https://img.shields.io/badge/-REDES-14532D?style=flat-square&labelColor=0D1117"/><br><br>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-14532D?style=flat-square&labelColor=0D1117"/><br><br>
 <sub>Protocolos, roteamento,<br>o caminho do pacote</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://img.shields.io/badge/-CRIPTOGRAFIA-3B0764?style=flat-square&labelColor=0D1117"/><br><br>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-3B0764?style=flat-square&labelColor=0D1117"/><br><br>
 <sub>Hashing, simétrico vs<br>assimétrico, onde quebra</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://img.shields.io/badge/-AUTENTICA%C3%87%C3%83O-7F1D1D?style=flat-square&labelColor=0D1117"/><br><br>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-7F1D1D?style=flat-square&labelColor=0D1117"/><br><br>
 <sub>Sessões, tokens, o que<br>prova identidade</sub>
 </td>
 <td width="25%" align="center">
-<img src="https://img.shields.io/badge/-PR%C3%93XIMO-1F2937?style=flat-square&labelColor=0D1117"/><br><br>
-<sub>Laboratórios práticos e<br>fundamentos de Linux</sub>
+<img src="https://img.shields.io/badge/-LINUX-1F2937?style=flat-square&labelColor=0D1117"/><br><br>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-1F2937?style=flat-square&labelColor=0D1117"/><br><br>
+<sub>Fundamentos e<br>laboratórios práticos</sub>
 </td>
 </tr>
 </table>
