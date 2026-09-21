@@ -26,19 +26,19 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
 
 <table>
   <tr>
-    <td><b>Redes</b></td>
+    <td><img src="https://img.shields.io/badge/REDES-14532D?style=for-the-badge&labelColor=0D1117"/></td>
     <td>Protocolos, roteamento, o caminho que o pacote percorre</td>
   </tr>
   <tr>
-    <td><b>Criptografia</b></td>
+    <td><img src="https://img.shields.io/badge/CRIPTOGRAFIA-3B0764?style=for-the-badge&labelColor=0D1117"/></td>
     <td>Hashing, simétrico vs assimétrico, onde cada um quebra</td>
   </tr>
   <tr>
-    <td><b>Autenticação</b></td>
+    <td><img src="https://img.shields.io/badge/AUTENTICA%C3%87%C3%83O-7F1D1D?style=for-the-badge&labelColor=0D1117"/></td>
     <td>Sessões, tokens, o que realmente prova identidade</td>
   </tr>
   <tr>
-    <td><b>Próximo passo</b></td>
+    <td><img src="https://img.shields.io/badge/PR%C3%93XIMO%20PASSO-1F2937?style=for-the-badge&labelColor=0D1117"/></td>
     <td>Laboratórios práticos e fundamentos de Linux</td>
   </tr>
 </table>
