@@ -6,6 +6,7 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=9CA3AF&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+Engenharia+de+Software;Redes+%C2%B7+Criptografia+%C2%B7+Autentica%C3%A7%C3%A3o;Red+Team+%2F+Seguran%C3%A7a+Ofensiva" alt="typing"/>
 </div>
+
 <br>
 
 <!-- ============================================================
@@ -14,12 +15,12 @@
 
 ## `> whoami`
 
-Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias.
-Se quiser trocar uma ideia, meus contatos vão estar aqui em baixo
+Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias. Se quiser trocar uma ideia, meus contatos estão aqui embaixo.
 
-<p>
-<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
 <br>
 
 <!-- ============================================================
@@ -89,6 +90,7 @@ Se quiser trocar uma ideia, meus contatos vão estar aqui em baixo
   <img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logoColor=9CA3AF" height="48"/>
   <img src="https://img.shields.io/badge/John_the_Ripper-0D1117?style=for-the-badge&logoColor=9CA3AF" height="48"/>
 </p>
+
 <br>
 
 <!-- ============================================================
