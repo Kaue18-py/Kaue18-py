@@ -1,26 +1,20 @@
 <!-- ============================================================
-     BANNER
+     HEADER
 ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:14532D,100:3B0764&height=200&section=header&text=Kau%C3%AA%20H.G%20de%20Barros&fontColor=E6EDF3&fontSize=42&fontAlignY=32&desc=Software%20Engineering%20Student%20%C2%B7%20Security%20Oriented&descAlignY=55&descSize=16" width="100%" alt="banner"/>
-</div>
 
-<!-- ============================================================
-     TYPING ANIMATION
-============================================================ -->
-<div align="center">
-  <a href="https://github.com/Kaue18-py">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Redes%2C+criptografia+e+autentica%C3%A7%C3%A3o;Interesse+em+Red+Team+e+Seguran%C3%A7a+Ofensiva;Construindo+a+base+antes+de+quebrar+qualquer+coisa" alt="typing"/>
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:14532D,100:3B0764&height=170&section=header&text=Kau%C3%AA%20H.G%20de%20Barros&fontColor=E6EDF3&fontSize=40&fontAlignY=36" width="100%" alt="banner"/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software;Redes+%C2%B7+Criptografia+%C2%B7+Autentica%C3%A7%C3%A3o;Caminho%3A+Red+Team+%2F+Seguran%C3%A7a+Ofensiva;Entender+o+sistema+antes+de+test%C3%A1-lo" alt="typing"/>
+
+<p>
   <img src="https://img.shields.io/badge/status-em%20forma%C3%A7%C3%A3o-14532D?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/foco-offensive%20security-7F1D1D?style=flat-square&labelColor=0D1117"/>
-  <img src="https://komarev.com/ghpvc/?username=Kaue18-py&style=flat-square&color=3B0764&label=profile+views"/>
-</div>
+  <img src="https://img.shields.io/badge/base-redes%20%26%20cripto-3B0764?style=flat-square&labelColor=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Kaue18-py&style=flat-square&color=3B0764&label=views"/>
+</p>
 
-<br>
+</div>
 
 <!-- ============================================================
      SOBRE MIM
@@ -28,22 +22,35 @@
 
 ## `> whoami`
 
-```bash
-$ whoami
-kaue-hg-de-barros
+```console
+┌──(kaue㉿lab)-[~]
+└─$ whoami --verbose
 
-$ cat ./perfil.txt
-Estudante de Engenharia de Software.
-Escrevo código de dia e leio sobre como quebrá-lo de noite.
+  Kauê H.G de Barros
+  Estudante de Engenharia de Software
 
-Meu interesse está em Red Team / segurança ofensiva — não como
-título, mas como direção. Hoje estou na base: infraestrutura de
-redes, criptografia e autenticação. Entender como um sistema se
-defende antes de entender como ele cai.
+  Comecei escrevendo código pra fazer coisas funcionarem.
+  Fiquei quando percebi que a parte interessante é entender
+  por que elas param de funcionar.
 
-$ cat ./disclaimer.txt
-Estudo ofensivo aplicado apenas em laboratórios e ambientes
-autorizados. Segurança é ofício, não performance.
+  Segurança ofensiva é pra onde estou indo — não é o que eu
+  sou hoje. Por enquanto estou na fundação: como um pacote
+  atravessa uma rede, como uma senha vira hash, como uma
+  sessão prova que você é você. Quebrar sem entender é sorte.
+
+└─$ cat ./regras.txt
+
+  Laboratório e ambiente autorizado. Sempre.
+  Segurança é ofício, não performance.
+```
+
+**Foco atual**
+
+```diff
++ Infraestrutura de redes — protocolos, roteamento, o caminho do pacote
++ Criptografia — hashing, simétrico vs assimétrico, onde cada um quebra
++ Autenticação — sessões, tokens, o que realmente prova identidade
+! Próximo passo — laboratórios práticos e fundamentos de Linux
 ```
 
 <br>
@@ -80,28 +87,6 @@ autorizados. Segurança é ofício, não performance.
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=7F1D1D"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3"/>
 </p>
-
-**Segurança — fundamentos em estudo**
-
-<p>
-  <img src="https://img.shields.io/badge/Infraestrutura_de_Redes-14532D?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Criptografia-14532D?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-14532D?style=flat-square&labelColor=0D1117"/>
-</p>
-
-<br>
-
-<!-- ============================================================
-     PROJETOS
-============================================================ -->
-
-## `> ls -la ./projects`
-
-<div align="center">
-  <a href="https://github.com/Kaue18-py/central-de-consultas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaue18-py&repo=central-de-consultas&bg_color=0D1117&title_color=2EA043&text_color=9CA3AF&icon_color=6D28D9&border_color=1F2937" width="70%"/>
-  </a>
-</div>
 
 <br>
 
@@ -143,7 +128,7 @@ autorizados. Segurança é ofício, não performance.
 <br>
 
 <!-- ============================================================
-     REDES
+     CONTATO
 ============================================================ -->
 
 ## `> ./contact`
