@@ -97,22 +97,11 @@ autorizados. Segurança é ofício, não performance.
 
 ## `> ls -la ./projects`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kaue18-py/Central-de-Consulta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaue18-py&repo=Central-de-Consulta&bg_color=0D1117&title_color=2EA043&text_color=9CA3AF&icon_color=6D28D9&border_color=1F2937" width="100%"/>
-      </a>
-      <p align="center"><sub>&gt; DESCREVA AQUI: o que consulta, para quem, qual stack.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kaue18-py/Loja-virtual">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaue18-py&repo=Loja-virtual&bg_color=0D1117&title_color=2EA043&text_color=9CA3AF&icon_color=6D28D9&border_color=1F2937" width="100%"/>
-      </a>
-      <p align="center"><sub>&gt; DESCREVA AQUI: e-commerce com o quê — carrinho, auth, pagamento?</sub></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Kaue18-py/central-de-consultas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaue18-py&repo=central-de-consultas&bg_color=0D1117&title_color=2EA043&text_color=9CA3AF&icon_color=6D28D9&border_color=1F2937" width="70%"/>
+  </a>
+</div>
 
 <br>
 
@@ -138,19 +127,7 @@ autorizados. Segurança é ofício, não performance.
 <br>
 
 <!-- ============================================================
-     TROPHIES
-============================================================ -->
-
-## `> ./trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaue18-py&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
-<br>
-
-<!-- ============================================================
-     SNAKE  (requer .github/workflows/snake.yml)
+     SNAKE
 ============================================================ -->
 
 ## `> ./snake --eat-contributions`
