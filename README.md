@@ -24,13 +24,26 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
 
 ## `> ./focus --now`
 
-🟩 **Redes** — protocolos, roteamento, o caminho que o pacote percorre
-
-🟪 **Criptografia** — hashing, simétrico vs assimétrico, onde cada um quebra
-
-🟥 **Autenticação** — sessões, tokens, o que realmente prova identidade
-
-⬜ **Próximo passo** — laboratórios práticos e fundamentos de Linux
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-REDES-14532D?style=flat-square&labelColor=0D1117"/><br><br>
+<sub>Protocolos, roteamento,<br>o caminho do pacote</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-CRIPTOGRAFIA-3B0764?style=flat-square&labelColor=0D1117"/><br><br>
+<sub>Hashing, simétrico vs<br>assimétrico, onde quebra</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-AUTENTICA%C3%87%C3%83O-7F1D1D?style=flat-square&labelColor=0D1117"/><br><br>
+<sub>Sessões, tokens, o que<br>prova identidade</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/-PR%C3%93XIMO-1F2937?style=flat-square&labelColor=0D1117"/><br><br>
+<sub>Laboratórios práticos e<br>fundamentos de Linux</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
