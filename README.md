@@ -47,21 +47,23 @@ regras:
 
 ## `> ./focus --now`
 
+## `> ./focus --now`
+
 <table>
   <tr>
-    <td><b>🛰️&nbsp; Redes</b></td>
+    <td><b>Redes</b></td>
     <td>Protocolos, roteamento, o caminho que o pacote percorre</td>
   </tr>
   <tr>
-    <td><b>🔐&nbsp; Criptografia</b></td>
+    <td><b>Criptografia</b></td>
     <td>Hashing, simétrico vs assimétrico, onde cada um quebra</td>
   </tr>
   <tr>
-    <td><b>🪪&nbsp; Autenticação</b></td>
+    <td><b>Autenticação</b></td>
     <td>Sessões, tokens, o que realmente prova identidade</td>
   </tr>
   <tr>
-    <td><b>⚙️&nbsp; Próximo passo</b></td>
+    <td><b>Próximo passo</b></td>
     <td>Laboratórios práticos e fundamentos de Linux</td>
   </tr>
 </table>
@@ -148,7 +150,5 @@ regras:
 ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,55:14532D,100:0D1117&height=130&section=footer&text=exit%20code%200&fontColor=9CA3AF&fontSize=19&fontAlignY=78" width="100%"/>
-  <br>
-  <sub><code>Nenhum sistema é seguro — só ainda não foi testado o suficiente.</code></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,55:14532D,100:0D1117&height=120&section=footer" width="100%"/>
 </div>
