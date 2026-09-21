@@ -112,12 +112,3 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
 <a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117"/></a>
 
 </div>
-<br>
-
-<!-- ============================================================
-     RODAPÉ
-============================================================ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,55:1F2937,100:0D1117&height=120&section=footer" width="100%"/>
-</div>
