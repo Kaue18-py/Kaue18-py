@@ -81,7 +81,7 @@ Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei d
   <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48"/>
 </p>
 
-**CiberSegurança/Pentest**
+**CiberSegurança & Pentest**
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=9CA3AF" height="48"/>
