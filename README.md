@@ -18,7 +18,7 @@ Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei d
 Se quiser trocar uma ideia, meus contatos vão estar aqui em baixo
 
 <p>
-<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 </p>
 <br>
 
