@@ -21,29 +21,13 @@
 
 ## `> whoami`
 
-```yaml
-identidade:
-  nome:    Kauê H.G de Barros
-  papel:   Estudante de Engenharia de Software
-  direção: Red Team / Segurança Ofensiva
-
-origem: >
-  Comecei escrevendo código pra fazer coisas funcionarem.
-  Fiquei quando percebi que a parte interessante é entender
-  por que elas param de funcionar.
-
-posição_atual: >
-  Segurança ofensiva é pra onde estou indo, não o que eu sou
-  hoje. Estou na fundação: como um pacote atravessa uma rede,
-  como uma senha vira hash, como uma sessão prova identidade.
-  Quebrar sem entender é sorte, não ofício.
-
-regras:
-  - Laboratório e ambiente autorizado. Sempre.
-  - Segurança é ofício, não performance.
-```
+Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias.
 
 <br>
+
+<!-- ============================================================
+     FOCO ATUAL
+============================================================ -->
 
 ## `> ./focus --now`
 
@@ -91,6 +75,25 @@ regras:
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
 </p>
+
+**Automação**
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=2EA043"/>
+</p>
+
+**Segurança — em estudo**
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=2EA043"/>
+  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=7F1D1D"/>
+  <img src="https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logoColor=6D28D9"/>
+  <img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logoColor=9CA3AF"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-0D1117?style=for-the-badge&logoColor=E6EDF3"/>
+</p>
+
+<br>
+
 <!-- ============================================================
      ATIVIDADE
 ============================================================ -->
@@ -129,6 +132,12 @@ regras:
   </a>
 </div>
 
+<br>
 
+<!-- ============================================================
+     RODAPÉ
+============================================================ -->
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,55:14532D,100:0D1117&height=120&section=footer" width="100%"/>
+</div>
