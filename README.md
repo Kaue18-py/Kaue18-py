@@ -14,8 +14,12 @@
 
 ## `> whoami`
 
-Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias.
+Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias.
+Se quiser trocar uma ideia, meus contatos vão estar aqui em baixo
 
+<p>
+<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117"/></a>
+</p>
 <br>
 
 <!-- ============================================================
@@ -103,18 +107,4 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaue18-py/Kaue18-py/output/snake.svg"/>
     <img alt="snake animation" src="https://raw.githubusercontent.com/Kaue18-py/Kaue18-py/output/snake.svg" width="100%"/>
   </picture>
-</div>
-
-<br>
-
-<!-- ============================================================
-     CONTATO
-============================================================ -->
-
-## `> ./contact`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117"/></a>
-
 </div>
