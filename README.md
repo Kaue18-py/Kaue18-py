@@ -47,8 +47,6 @@ regras:
 
 ## `> ./focus --now`
 
-## `> ./focus --now`
-
 <table>
   <tr>
     <td><b>Redes</b></td>
@@ -143,12 +141,6 @@ regras:
   </a>
 </div>
 
-<br>
 
-<!-- ============================================================
-     RODAPÉ
-============================================================ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,55:14532D,100:0D1117&height=120&section=footer" width="100%"/>
-</div>
+
