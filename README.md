@@ -4,11 +4,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:3B0764&height=160&section=header&text=Kau%C3%AA%20H.G%20de%20Barros&fontColor=E6EDF3&fontSize=38&fontAlignY=38" width="100%" alt="banner"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Estudante+de+Engenharia+de+Software;Redes+%C2%B7+Criptografia+%C2%B7+Autentica%C3%A7%C3%A3o;Caminho%3A+Red+Team+%2F+Seguran%C3%A7a+Ofensiva" alt="typing"/>
-<br><br>
-<img src="https://img.shields.io/badge/em%20forma%C3%A7%C3%A3o-0D1117?style=flat-square&labelColor=0D1117&color=1F2937"/> <img src="https://img.shields.io/badge/offensive%20security-0D1117?style=flat-square&labelColor=0D1117&color=7F1D1D"/> <img src="https://img.shields.io/badge/redes%20%26%20cripto-0D1117?style=flat-square&labelColor=0D1117&color=3B0764"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=9CA3AF&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+Engenharia+de+Software;Redes+%C2%B7+Criptografia+%C2%B7+Autentica%C3%A7%C3%A3o;Red+Team+%2F+Seguran%C3%A7a+Ofensiva" alt="typing"/>
 </div>
-
 <br>
 
 <!-- ============================================================
@@ -66,28 +63,22 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
   <img src="https://skillicons.dev/icons?i=pytorch,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-**Ferramentas**
+**Ferramentas & Automação**
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
-</p>
-
-**Automação**
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-1F2937?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48"/>
 </p>
 
 **Segurança — em estudo**
 
 <p>
-  <img src="https://img.shields.io/badge/Nmap-1F2937?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Metasploit-1F2937?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Maltego-1F2937?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Nikto-1F2937?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-1F2937?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=9CA3AF" height="48"/>
+  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=9CA3AF" height="48"/>
+  <img src="https://img.shields.io/badge/Maltego-0D1117?style=for-the-badge&logo=maltego&logoColor=9CA3AF" height="48"/>
+  <img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logoColor=9CA3AF" height="48"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-0D1117?style=for-the-badge&logoColor=9CA3AF" height="48"/>
 </p>
-
 <br>
 
 <!-- ============================================================
@@ -118,10 +109,9 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/INSTAGRAM-6D28D9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GITHUB-E6EDF3?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-1F2937?style=for-the-badge&logo=instagram&logoColor=E6EDF3&labelColor=0D1117"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117"/></a>
 
 </div>
-
 <br>
 
 <!-- ============================================================
