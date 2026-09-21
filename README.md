@@ -77,32 +77,20 @@ regras:
 **Linguagens**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=7F1D1D"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=9CA3AF"/>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=7F1D1D"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=6D28D9"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 </p>
 
 **Frameworks & Bibliotecas**
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=7F1D1D"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=6D28D9"/>
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=9CA3AF"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,react,tailwind,bootstrap&theme=dark" />
 </p>
 
 **Ferramentas**
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2EA043"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=7F1D1D"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
 </p>
-
-<br>
-
 <!-- ============================================================
      ATIVIDADE
 ============================================================ -->
