@@ -24,19 +24,28 @@ Salve, sou o Kauê, estudante de Engenharia de Software na FIAP.Sempre gostei de
 
 ## `> ./focus --now`
 
-```ini
-[redes]
-protocolos     = roteamento, o caminho que o pacote percorre
-
-[criptografia]
-hashing        = simétrico vs assimétrico, onde cada um quebra
-
-[autenticacao]
-sessoes        = tokens, o que realmente prova identidade
-
-[proximo_passo]
-laboratorios   = prática e fundamentos de Linux
-```
+<table>
+  <tr>
+    <td><b>Redes</b></td>
+    <td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-14532D?style=flat-square&labelColor=0D1117"/></td>
+    <td><sub>Protocolos, roteamento, caminho do pacote</sub></td>
+  </tr>
+  <tr>
+    <td><b>Criptografia</b></td>
+    <td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-3B0764?style=flat-square&labelColor=0D1117"/></td>
+    <td><sub>Hashing, simétrico vs assimétrico</sub></td>
+  </tr>
+  <tr>
+    <td><b>Autenticação</b></td>
+    <td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-7F1D1D?style=flat-square&labelColor=0D1117"/></td>
+    <td><sub>Sessões, tokens, identidade</sub></td>
+  </tr>
+  <tr>
+    <td><b>Linux</b></td>
+    <td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-1F2937?style=flat-square&labelColor=0D1117"/></td>
+    <td><sub>Fundamentos e laboratórios práticos</sub></td>
+  </tr>
+</table>
 
 <br>
 
