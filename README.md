@@ -15,7 +15,7 @@
 
 ## `> whoami`
 
-Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias. Se quiser trocar uma ideia, meus contatos estão aqui embaixo.
+Salvee, Meu nome é Kauê, sou estudante de Engenharia de Software na FIAP. Sempre gostei de tecnologia desde criança e sigo focado em desenvolver minhas habilidades. Tenho grande interesse na área de cibersegurança, que hoje é onde tenho mais conhecimento, mas ainda estou me descobrindo: estudo e testo coisas novas todos os dias. Se quiser trocar uma ideia, meus contatos estão aqui embaixo.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/kau%C3%AA-h-g-de-barros-34934035a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/kaueze011"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://github.com/Kaue18-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -39,7 +39,7 @@ Oi, sou o Kauê — estudante de Engenharia de Software na FIAP. Sempre gostei d
 <td width="25%" align="center">
 <img src="https://img.shields.io/badge/-CRIPTOGRAFIA-3B0764?style=flat-square&labelColor=0D1117"/><br><br>
 <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-3B0764?style=flat-square&labelColor=0D1117"/><br><br>
-<sub>Hashing, simétrico vs<br>assimétrico, onde quebra</sub>
+<sub>Hashing, simétrico vs<br>assimétrico</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://img.shields.io/badge/-AUTENTICA%C3%87%C3%83O-7F1D1D?style=flat-square&labelColor=0D1117"/><br><br>
